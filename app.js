@@ -1,0 +1,1 @@
+const pages=['books/tome1/cover.jpg','books/tome1/page001.jpg'];let c=0;
